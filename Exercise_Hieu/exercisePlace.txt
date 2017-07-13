@@ -1,0 +1,11 @@
+﻿Build application named: Find my places
+This application can provide user a way to find places around their location. 
+It can show route from user’s location to selected places.
+Use cases:
+
+- AS a user ,I want to Login with facebook and share my current location
+- As a user, I want to see coffee shops around my current location.
+- As a user, I want to see restaurant around my current location.
+- As a user, I want to see hospital around my current location.
+- As a user, I want to see fuel(Petroleum) my current location.
+- As a user, I want to see place detail of selected place.
